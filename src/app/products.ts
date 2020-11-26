@@ -23,7 +23,7 @@ export const r1 = {
   "isAlive": true,
   "age": 27,
   "photo": "https://www.w3schools.com/w3images/avatar_hat.jpg",
-  "profession": "Designer",
+  "profession": "Designer and Data Analytics",
   "address": {
     "streetAddress": "21 2nd Street",
     "city": "New York ",
